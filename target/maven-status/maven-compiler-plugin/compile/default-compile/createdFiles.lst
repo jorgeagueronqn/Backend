@@ -10,6 +10,7 @@ com\proyectojaa\jaa\Security\jwt\JwtProvider.class
 com\proyectojaa\jaa\Interface\IPersonaService.class
 com\proyectojaa\jaa\dto\dtoEducacion.class
 com\proyectojaa\jaa\Security\Controller\RolService.class
+.netbeans_automatic_build
 com\proyectojaa\jaa\JaaApplication.class
 com\proyectojaa\jaa\Controller\CEducacion.class
 com\proyectojaa\jaa\Security\Controller\AuthController.class
