@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.proyectojaa.jaa.JaaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.881 s - in com.proyectojaa.jaa.JaaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.812 s - in com.proyectojaa.jaa.JaaApplicationTests
